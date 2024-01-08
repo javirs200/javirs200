@@ -1,16 +1,57 @@
-### Hi there 👋
+### Hello There! 
 
-<!--
-**javirs200/javirs200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%233d85c6&size=30&center=true&vCenter=true&width=450&lines=I'm+Javier;Software+Engineering+Student;Spanish;Full-Stack+Dev" alt="Software Engineering Student,Spanish Full-Stack developer"></a>
+</div>
 
-Here are some ideas to get you started:
+<h2>ℹ️ Project info</h2>
+<div>
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/javirs200/javirs200?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/javirs200/javirs200?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/javirs200/javirs200?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="Last commit" src="https://img.shields.io/github/last-commit/javirs200/javirs200?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
+<img alt="Commit activity" src="https://img.shields.io/github/commit-activity/m/javirs200/javirs200?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
+<a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/powered-by-electricity.svg" alt="powered by electricity" height="22px"></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>:busts_in_silhouette: How to reach me</h2>
+<a href="https://github.com/javirs200">
+    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/javirs200?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@javirs200" height="22px">
+</a>
+<a href="https://linkedin.com/in/pedrojaviermirandatejada">
+    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/pedrojaviermirandatejada&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
+</a>
+</br>
+
+<h2>:bulb: Languages & Frameworks I code in</h2>
+<code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
+<code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
+<code><img title="Python" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
+<code><img title="CSS 3" alt="css 3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
+<code><img title="C" alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
+<code><img title="C++" alt="C+++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></code>
+<code> <img title="C#" alt="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></code>
+<code> <img title="Java" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></code>
+<code><img title="ReactJS" alt="react js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
+<code><img title="NodeJS" alt="node js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
+<code> <img title="Markdown" alt="markdown" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></code>
+<code> <img title="Unity" alt="Unity" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" /></code>
+<code> <img title="MongoDB" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></code>
+<code> <img title="SQL" alt="SQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" /></code>
+
+</br></br>
+
+<h2>:hammer_and_wrench: Things that help me getting my code done</h2>
+<code> <img title="npm" alt="npm" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></code>
+<code><img title="Ubuntu" alt="ubuntu" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code>
+<code><img title="Git" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
+<code><img title="Mozilla Firefox" alt="mozilla firefox" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" /></code>
+<code><img title="VS Code" alt="visual studio code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
+<code><img title="MS Windows" alt="microsoft windows" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
+<code><img title="GitHub" alt="github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
+<code><img title="GIMP" alt="GNU Image Manipulation Program - GIMP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" /></code>
+<code><img title="Linux" alt="linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
+</br></br>
+
+- 🔭 I’m currently working on ⚡
+- 🌱 I’m currently learning Web Development

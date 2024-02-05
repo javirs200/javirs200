@@ -4,14 +4,56 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%233d85c6&size=30&center=true&vCenter=true&width=450&lines=I'm+Javier;Software+Engineering+Student;Spanish;Full-Stack+Dev" alt="Software Engineering Student,Spanish Full-Stack developer"></a>
 </div>
 
-<h2>ℹ️ Project info</h2>
+<h2>Featured Projects</h2>
 <div>
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/javirs200/javirs200?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/javirs200/javirs200?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/javirs200/javirs200?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-<img alt="Last commit" src="https://img.shields.io/github/last-commit/javirs200/javirs200?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
-<img alt="Commit activity" src="https://img.shields.io/github/commit-activity/m/javirs200/javirs200?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
-<a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/powered-by-electricity.svg" alt="powered by electricity" height="22px"></a>
+    <ul>
+        <li>
+            <h3>🔭 Working on ⚡</h3>
+                <a href="https://github.com/javirs200/AzureContainersApp">AzureContainersApp</a>
+        </li>
+        <li>
+            <h3>🏁Last Fisnished🏁</h3>
+                <a href="https://github.com/javirs200/Desafio-de-Tripulaciones-FULLSTACK">Desafio-de-Tripulaciones</a>
+        </li>
+        <li>
+            <h3>💻Fullstack💻</h3>
+                <a href="https://github.com/javirs200/PokeApp">PokeApp</a>
+        </li>
+        <li>
+            <h3>📚Backend📚</h3>
+                <a href="https://github.com/javirs200/TelegramBOT">TelegramBOT</a>
+        </li>
+        <li>
+            <h3>🔎Frontend🔎</h3>
+            <ul>
+                <li><a href="https://github.com/javirs200/jsFrontedApp">FlightFinder</a></li>
+                <li><a href="https://github.com/javirs200/QuiZ_vol.2">QuiZ_vol.2</a></li>
+            </ul>
+        </li>
+        <li>
+            <h3>🎮 Videogames, addons , mods , etc ... 👾</h3>
+                <ul>
+                    <li><a href="https://github.com/javirs200/Xplane-Lua-Scrips">Xplane-Lua-Scrips</a></li>
+                    <li><a href="https://github.com/javirs200/AssettoSesionViwer">AssettoSesionViwer</a></li>
+                    <li><a href="https://github.com/javirs200/SimpleFuel">SimpleFuel</a></li>
+                    <li><a href="https://github.com/javirs200/minijuego">minijuego</a></li>
+                    <li><a href="https://github.com/javirs200/unity_2d_zelda_like">unity_2d_zelda_like</a></li>
+                </ul>
+        </li>
+        <li>
+        <h3>Colaborations out of Github</h3>
+            <a href="https://javirs200.itch.io/unexpectedplatformergame">unexpectedplatformergame(itch.io)</a>
+        </li>
+    </ul>
+</div>
+
+<h2>ℹ️ Last Finished Project info : Desafio-de-Tripulaciones</h2>
+<div>
+<img alt="Last commit" src="https://img.shields.io/github/last-commit/javirs200/Desafio-de-Tripulaciones-FULLSTACK?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
+<img alt="Commit activity" src="https://img.shields.io/github/commit-activity/t/javirs200/Desafio-de-Tripulaciones-FULLSTACK?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
+<img alt="forks" src="https://img.shields.io/github/forks/javirs200/Desafio-de-Tripulaciones-FULLSTACK?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="Repo stars" src="https://img.shields.io/github/stars/javirs200/Desafio-de-Tripulaciones-FULLSTACK?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="Contributors" src="https://img.shields.io/github/contributors/javirs200/Desafio-de-Tripulaciones-FULLSTACK?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
 </div>
 
 <h2>:busts_in_silhouette: How to reach me</h2>
@@ -54,6 +96,3 @@
 <code> <img title="Raspberrypi" alt="Raspberrypi" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" /></code>
 
 </br></br>
-
-- 🔭 I’m currently working on ⚡
-- 🌱 I’m currently learning Web Development

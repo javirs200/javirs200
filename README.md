@@ -17,8 +17,10 @@
         </li>
         <li>
             <h3>💻Fullstack💻</h3>
-                <a href="https://github.com/javirs200/Chat_TPG">Chat_TPG</a>
-                <a href="https://github.com/javirs200/PokeApp">PokeApp</a>
+            <ul>
+                <li><a href="https://github.com/javirs200/Chat_TPG">Chat_TPG</a></li>
+                <li><a href="https://github.com/javirs200/PokeApp">PokeApp</a></li>
+            </ul>
         </li>
         <li>
             <h3>📚Backend📚</h3>

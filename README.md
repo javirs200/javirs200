@@ -9,11 +9,15 @@
     <ul>
         <li>
             <h3>🔭 Working on ⚡</h3>
-                <a href="https://github.com/javirs200/AzureContainersApp">AzureContainersApp</a>
+            <ul>
+                <li><a href="https://github.com/javirs200/AzureContainersApp">AzureContainersApp</a></li>
+            </ul>
         </li>
         <li>
             <h3>🏁Last Fisnished🏁</h3>
-                <a href="https://github.com/javirs200/Desafio-de-Tripulaciones-FULLSTACK">Desafio-de-Tripulaciones</a>
+            <ul>
+                <li><a href="https://github.com/javirs200/Desafio-de-Tripulaciones-FULLSTACK">Desafio-de-Tripulaciones</a></li>
+            </ul>
         </li>
         <li>
             <h3>💻Fullstack💻</h3>
@@ -24,13 +28,21 @@
         </li>
         <li>
             <h3>📚Backend📚</h3>
-                <a href="https://github.com/javirs200/TelegramBOT">TelegramBOT</a>
+            <ul>
+                <li><a href="https://github.com/javirs200/TelegramBOT">TelegramBOT</a></li>
+            </ul>
         </li>
         <li>
             <h3>🔎Frontend🔎</h3>
             <ul>
                 <li><a href="https://github.com/javirs200/jsFrontedApp">FlightFinder</a></li>
                 <li><a href="https://github.com/javirs200/QuiZ_vol.2">QuiZ_vol.2</a></li>
+            </ul>
+        </li>
+        <li>
+            <h3>🔧Utils🔧</h3>
+            <ul>
+                <li><a href="https://github.com/javirs200/QR_Generator_Tool/">QR_Generator_Tool</a></li>
             </ul>
         </li>
         <li>
@@ -45,7 +57,9 @@
         </li>
         <li>
         <h3>Colaborations out of Github</h3>
-            <a href="https://javirs200.itch.io/unexpectedplatformergame">unexpectedplatformergame(itch.io)</a>
+            <ul>
+                <li><a href="https://javirs200.itch.io/unexpectedplatformergame">unexpectedplatformergame(itch.io)</a></li>
+            </ul>
         </li>
     </ul>
 </div>

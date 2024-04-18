@@ -10,7 +10,7 @@
         <li>
             <h3>🔭 Working on ⚡</h3>
             <ul>
-                <li><a href="https://github.com/javirs200/AzureContainersApp">AzureContainersApp</a></li>
+                <li><a href="https://github.com/javirs200/AzureContainersApp">AzureContainersApp (temporal name)</a></li>
             </ul>
         </li>
         <li>
@@ -63,6 +63,15 @@
             </ul>
         </li>
     </ul>
+</div>
+
+<h2>ℹ️ working on Project info : AzureContainersApp (temporal name)</h2>
+<div>
+<img alt="Last commit" src="https://img.shields.io/github/last-commit/javirs200/AzureContainersApp?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
+<img alt="Commit activity" src="https://img.shields.io/github/commit-activity/t/javirs200/AzureContainersApp?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
+<img alt="forks" src="https://img.shields.io/github/forks/javirs200/AzureContainersApp?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="Repo stars" src="https://img.shields.io/github/stars/javirs200/AzureContainersApp?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="Contributors" src="https://img.shields.io/github/contributors/javirs200/AzureContainersApp?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
 </div>
 
 <h2>ℹ️ Last Finished Project info : Desafio-de-Tripulaciones</h2>

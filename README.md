@@ -1,7 +1,7 @@
 ### Hello There! 
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%233d85c6&size=30&center=true&vCenter=true&width=450&lines=I'm+Javier;Software+Engineering+Student;Spanish;Full-Stack+Dev" alt="Software Engineering Student,Spanish Full-Stack developer"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%233d85c6&size=30&center=true&vCenter=true&width=450&lines=I'm+Javier;Software+Engineer;Spanish;Full-Stack+Dev" alt="Software Engineer,Spanish Full-Stack developer"></a>
 </div>
 
 <h2>Featured Projects</h2>

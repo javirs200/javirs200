@@ -10,18 +10,19 @@
         <li>
             <h3>🔭 Working on ⚡</h3>
             <ul>
-                <li><a href="https://github.com/javirs200/AzureContainersApp">AzureContainersApp (temporal name)</a></li>
+                <li> Shearching for a new project .... ( maybe a Godot game ) </li>
             </ul>
         </li>
         <li>
             <h3>🏁Last Fisnished🏁</h3>
             <ul>
-                <li><a href="https://github.com/javirs200/Desafio-de-Tripulaciones-FULLSTACK">Desafio-de-Tripulaciones</a></li>
+                <li><a href="https://github.com/javirs200/AzureContainersApp">AzureContainersApp (temporal name)</a></li>
             </ul>
         </li>
         <li>
             <h3>💻Fullstack💻</h3>
             <ul>
+                <li><a href="https://github.com/javirs200/Desafio-de-Tripulaciones-FULLSTACK">Desafio-de-Tripulaciones</a></li>
                 <li><a href="https://github.com/javirs200/Chat_TPG">Chat_TPG</a></li>
                 <li><a href="https://github.com/javirs200/PokeApp">PokeApp</a></li>
             </ul>

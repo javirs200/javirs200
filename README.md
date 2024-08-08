@@ -77,11 +77,11 @@
 
 <h2>ℹ️ Last Finished Project info : AzureContainersApp</h2>
 <div>
-<img alt="Last commit" src="https://img.shields.io/github/last-commit/javirs200/AzureContainersApp-FULLSTACK?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
-<img alt="Commit activity" src="https://img.shields.io/github/commit-activity/t/javirs200/AzureContainersApp-FULLSTACK?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
-<img alt="forks" src="https://img.shields.io/github/forks/javirs200/AzureContainersApp-FULLSTACK?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-<img alt="Repo stars" src="https://img.shields.io/github/stars/javirs200/AzureContainersApp-FULLSTACK?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-<img alt="Contributors" src="https://img.shields.io/github/contributors/javirs200/AzureContainersApp-FULLSTACK?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="Last commit" src="https://img.shields.io/github/last-commit/javirs200/AzureContainersApp?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
+<img alt="Commit activity" src="https://img.shields.io/github/commit-activity/t/javirs200/AzureContainersApp?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
+<img alt="forks" src="https://img.shields.io/github/forks/javirs200/AzureContainersApp?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="Repo stars" src="https://img.shields.io/github/stars/javirs200/AzureContainersApp?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="Contributors" src="https://img.shields.io/github/contributors/javirs200/AzureContainersApp?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
 </div>
 
 <h2>:busts_in_silhouette: How to reach me</h2>

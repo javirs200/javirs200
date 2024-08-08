@@ -38,6 +38,7 @@
             <ul>
                 <li><a href="https://github.com/javirs200/jsFrontedApp">FlightFinder</a></li>
                 <li><a href="https://github.com/javirs200/QuiZ_vol.2">QuiZ_vol.2</a></li>
+                <li>Primer <a href="https://github.com/javirs200/proyectos-quiz">quiz</a> personal hecho con js</li>
             </ul>
         </li>
         <li>

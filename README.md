@@ -16,7 +16,7 @@
         <li>
             <h3>🏁Last Fisnished🏁</h3>
             <ul>
-                <li><a href="https://github.com/javirs200/AzureContainersApp">AzureContainersApp (Bachelor Degrre final project Source code)</a></li>
+                <li><a href="https://github.com/javirs200/AzureContainersApp">AzureContainersApp (Bachelor Degree final project Source code)</a></li>
             </ul>
         </li>
         <li>

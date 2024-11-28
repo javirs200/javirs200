@@ -10,68 +10,68 @@
         <li>
             <h3>🔭 Working on ⚡🎮</h3>
             <ul>
-                <li><a href="https://github.com/javirs200/webgame">webgame</a>[provisional name] 3d Godot game for web , available to play on <a href="https://javirs200.itch.io/test-web-godot">itch.io</a></li>
-                <li><a href="https://github.com/javirs200/Circuit-timer-with-ESPnow">Circuit-timer-with-ESPnow</a>WIP , chronometer using ESP32 microcontorller and ESP-NOW wireless protocol</li>
+                <li><a href="https://github.com/javirs200/webgame">webgame</a> [provisional name] 3d Godot game for web , available to play on <a href="https://javirs200.itch.io/test-web-godot">itch.io</a></li>
+                <li><a href="https://github.com/javirs200/Circuit-timer-with-ESPnow">Circuit-timer-with-ESPnow</a> WIP , chronometer using ESP32 microcontorller and ESP-NOW wireless protocol</li>
             </ul>
         </li>
         <li>
             <h3>🏁Last Fisnished🏁</h3>
             <ul>
-                <li><a href="https://github.com/javirs200/AzureContainersApp">AzureContainersApp</a>Bachelor Degree final project Source code</li>
+                <li><a href="https://github.com/javirs200/AzureContainersApp"> AzureContainersApp</a>Bachelor Degree final project Source code</li>
             </ul>
         </li>
         <li>
             <h3>💻Fullstack💻</h3>
             <ul>
-                <li><a href="https://github.com/javirs200/Desafio-de-Tripulaciones-FULLSTACK">Desafio-de-Tripulaciones</a>Complete app for compare electricity fees</li>
-                <li><a href="https://github.com/javirs200/Chat_TPG">Chat_TPG</a>Chat with db persistence</li>
+                <li><a href="https://github.com/javirs200/Desafio-de-Tripulaciones-FULLSTACK"> Desafio-de-Tripulaciones</a>Complete app for compare electricity fees</li>
+                <li><a href="https://github.com/javirs200/Chat_TPG">Chat_TPG</a> Chat with db persistence</li>
             </ul>
         </li>
         <li>
             <h3>📚Backend📚</h3>
             <ul>
-                <li><a href="https://github.com/javirs200/TelegramBOT">TelegramBOT</a>telegram chatbot Scrapper from a time table</li>
-                <li><a href="https://github.com/javirs200/Api_ASP_Net_CORE">Api_ASP_Net_CORE</a>Learn of api in .net</li>
+                <li><a href="https://github.com/javirs200/TelegramBOT">TelegramBOT</a> Telegram chatbot Scrapper from a time table</li>
+                <li><a href="https://github.com/javirs200/Api_ASP_Net_CORE">Api_ASP_Net_CORE</a> Learn of api in .net</li>
             </ul>
         </li>
         <li>
             <h3>🔎Frontend🔎</h3>
             <ul>
-                <li><a href="https://github.com/javirs200/PokeApp">PokeApp</a>Fronend ui for pokeapi</li>
-                <li><a href="https://github.com/javirs200/jsFrontedApp">FlightFinder</a>Similar to flightradar24</li>
-                <li><a href="https://github.com/javirs200/QuiZ_vol.2">QuiZ_vol.2</a>Random trivia and anime trivia ,it uses firebase and an API</li>
-                <li><a href="https://github.com/javirs200/proyectos-quiz">Simple Quiz</a>Aeronautical trivia with 10 questions,it uses js objets</li>
+                <li><a href="https://github.com/javirs200/PokeApp">PokeApp</a> Fronend ui for pokeapi</li>
+                <li><a href="https://github.com/javirs200/jsFrontedApp">FlightFinder</a> Similar to flightradar24</li>
+                <li><a href="https://github.com/javirs200/QuiZ_vol.2">QuiZ_vol.2</a> Random trivia and anime trivia ,it uses firebase and an API</li>
+                <li><a href="https://github.com/javirs200/proyectos-quiz">Simple Quiz</a> Aeronautical trivia with 10 questions,it uses js objets</li>
             </ul>
         </li>
         <li>
             <h3>🔧Utils🔧</h3>
             <ul>
-                <li><a href="https://github.com/javirs200/QR_Generator_Tool/">QR_Generator_Tool</a>generates a valid QR from any data , fully customizable</li>
+                <li><a href="https://github.com/javirs200/QR_Generator_Tool/">QR_Generator_Tool</a> Generates a valid QR from any data , fully customizable</li>
             </ul>
         </li>
         <li>
             <h3>🔌Microcontrollers and IoT🔌</h3>
             <ul>
                 <li><a href="https://github.com/javirs200/cosasdeMicropython">Collection of my Test of Micropython Scrips</a> Mainly for use in ESP32</li>
-                <li><a href="https://github.com/javirs200/cosasDePython">Collection of my Test of Python Scrips</a>for PC and Raspberry pi</li>
+                <li><a href="https://github.com/javirs200/cosasDePython">Collection of my Test of Python Scrips</a> for PC and Raspberry pi</li>
             </ul>
         </li>
         <li>
             <h3>🎮 Videogames, addons , mods , etc ... 👾</h3>
                 <ul>
-                    <li><a href="https://github.com/javirs200/Xplane-Lua-Scrips">Xplane-Lua-Scrips</a></li>
-                    <li><a href="https://github.com/javirs200/AssettoSesionViwer">AssettoSesionViwer</a>Tool for display more friendly the json sesion files generated by AssettoCorsa , web page</li>
-                    <li><a href="https://github.com/javirs200/SimpleFuel">SimpleFuel</a>Tool for display current fuel and remaing fuel in AssettoCorsa , hud ingame Script</li>
-                    <li><a href="https://github.com/javirs200/minijuego">minijuego</a>Old 2d web game about f1 race cars, uses sockets and 2 or more devices</li>
-                    <li><a href="https://github.com/javirs200/unity_2d_zelda_like">unity_2d_zelda_like</a>A mix of Zelda 2d game and diy sprites inspired by halo game</li>
-                    <li><a href="https://github.com/javirs200/CBird">CBird</a>Console flappybird in C</li>
-                    <li><a href="https://github.com/javirs200/fmsConverter">fmsConverter</a>Convert flight plans in FMS format from X-Plane to JSON format for use with GeoFS.</li>
+                    <li><a href="https://github.com/javirs200/Xplane-Lua-Scrips">Xplane-Lua-Scrips</a> Collection of flywithlua scripts for xplane</li>
+                    <li><a href="https://github.com/javirs200/AssettoSesionViwer">AssettoSesionViwer</a> Tool for display more friendly the json sesion files generated by AssettoCorsa , web page</li>
+                    <li><a href="https://github.com/javirs200/SimpleFuel">SimpleFuel</a> Tool for display current fuel and remaing fuel in AssettoCorsa , hud ingame Script</li>
+                    <li><a href="https://github.com/javirs200/minijuego">minijuego</a> Old 2d web game about f1 race cars, uses sockets and 2 or more devices</li>
+                    <li><a href="https://github.com/javirs200/unity_2d_zelda_like">unity_2d_zelda_like</a> A mix of Zelda 2d game and diy sprites inspired by halo game</li>
+                    <li><a href="https://github.com/javirs200/CBird">CBird</a> Console flappybird in C</li>
+                    <li><a href="https://github.com/javirs200/fmsConverter">fmsConverter</a> Convert flight plans in FMS format from X-Plane to JSON format for use with GeoFS.</li>
                 </ul>
         </li>
         <li>
         <h3>Colaborations out of Github</h3>
             <ul>
-                <li><a href="https://javirs200.itch.io/unexpectedplatformergame">Unexpectedplatformergame(itch.io)</a>Plattformer game that was made in 3 days by me and a friend for a GameJam</li>
+                <li><a href="https://javirs200.itch.io/unexpectedplatformergame">Unexpectedplatformergame(itch.io)</a> Plattformer game that was made in 3 days by me and a friend for a GameJam</li>
             </ul>
         </li>
     </ul>

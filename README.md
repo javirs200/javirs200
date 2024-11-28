@@ -11,19 +11,19 @@
             <h3>🔭 Working on ⚡🎮</h3>
             <ul>
                 <li><a href="https://github.com/javirs200/webgame">webgame</a> [provisional name] 3d Godot game for web , available to play on <a href="https://javirs200.itch.io/test-web-godot">itch.io</a></li>
-                <li><a href="https://github.com/javirs200/Circuit-timer-with-ESPnow">Circuit-timer-with-ESPnow</a> WIP , chronometer using ESP32 microcontorller and ESP-NOW wireless protocol</li>
+                <li><a href="https://github.com/javirs200/Circuit-timer-with-ESPnow">Circuit-timer-with-ESPnow</a> WIP , chronometer using ESP32 microcontroller and ESP-NOW wireless protocol</li>
             </ul>
         </li>
         <li>
             <h3>🏁Last Fisnished🏁</h3>
             <ul>
-                <li><a href="https://github.com/javirs200/AzureContainersApp"> AzureContainersApp</a>Bachelor Degree final project Source code</li>
+                <li><a href="https://github.com/javirs200/AzureContainersApp">AzureContainersApp</a> Bachelor Degree final project Source code</li>
             </ul>
         </li>
         <li>
             <h3>💻Fullstack💻</h3>
             <ul>
-                <li><a href="https://github.com/javirs200/Desafio-de-Tripulaciones-FULLSTACK"> Desafio-de-Tripulaciones</a>Complete app for compare electricity fees</li>
+                <li><a href="https://github.com/javirs200/Desafio-de-Tripulaciones-FULLSTACK">Desafio-de-Tripulaciones</a> Complete app for compare electricity fees</li>
                 <li><a href="https://github.com/javirs200/Chat_TPG">Chat_TPG</a> Chat with db persistence</li>
             </ul>
         </li>

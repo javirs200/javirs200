@@ -134,6 +134,7 @@
 <code><img title="C++" alt="C+++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></code>
 <code> <img title="C#" alt="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></code>
 <code> <img title="Java" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></code>
+<code> <img title="Kotlin" alt="Kotlin" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" /></code>
 <code><img title="ReactJS" alt="react js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
 <code><img title="NodeJS" alt="node js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
 <code> <img title="Markdown" alt="markdown" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></code>
@@ -149,13 +150,22 @@
 <code><img title="Ubuntu" alt="ubuntu" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code>
 <code><img title="Git" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
 <code><img title="Mozilla Firefox" alt="mozilla firefox" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" /></code>
+<code><img title="Google Chrome" alt="google chrome" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" /></code>
+<code><img title="Visual Studio" alt="visual studio" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /></code>
 <code><img title="VS Code" alt="visual studio code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
 <code><img title="MS Windows" alt="microsoft windows" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
 <code><img title="GitHub" alt="github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
 <code><img title="Linux" alt="linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
 <code><img title="Jetbrains" alt="Jetbrains" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" /></code>
+<code><img title="Android Studio" alt="Android Studio" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" /></code>
+<code><img title="Android" alt="Android" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" /></code>
+<code><img title="Arduino" alt="Arduino" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" /></code>
+<code><img title="Docker" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></code>
+<code><img title="Postman" alt="Postman" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" /></code>
 <code> <img title="Unity" alt="Unity" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" /></code>
 <code> <img title="Raspberrypi" alt="Raspberrypi" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" /></code>
+<code> <img title="Godot" alt="Godot" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" /></code>
+
 
 </br></br>
 

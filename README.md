@@ -11,7 +11,6 @@
             <h3>🔭 Working on ⚡🎮</h3>
             <ul>
                 <li><a href="https://github.com/javirs200/webgame">webgame</a> [provisional name] 3d Godot game for web , available to play on <a href="https://javirs200.itch.io/test-web-godot">itch.io</a></li>
-                <li><a href="https://github.com/javirs200/Circuit-timer-with-ESPnow">Circuit-timer-with-ESPnow</a> WIP , chronometer using ESP32 microcontroller and ESP-NOW wireless protocol</li>
                 <li><a href="https://github.com/javirs200/usbSerialTrack">usbSerialTrack</a> WIP , Android app for conect with <a href="https://github.com/javirs200/Circuit-timer-with-ESPnow">Circuit-timer-with-ESPnow</a> hardware | using Jectpack Compose , Material Desing 3 , and <a href="https://github.com/mik3y/usb-serial-for-android">usb-serial-for-android</a> usb library </li>
             </ul>
         </li>
@@ -45,6 +44,12 @@
             </ul>
         </li>
         <li>
+            <h3>📱Mobile📱</h3>
+            <ul>
+                <li><a href="https://github.com/javirs200/usbSerialTrack">usbSerialTrack</a> WIP , Android app for conect with <a href="https://github.com/javirs200/Circuit-timer-with-ESPnow">Circuit-timer-with-ESPnow</a> hardware | using Jectpack Compose , Material Desing 3 , and <a href="https://github.com/mik3y/usb-serial-for-android">usb-serial-for-android</a> usb library </li>
+            </ul>
+        </li>
+        <li>
             <h3>🔧Utils🔧</h3>
             <ul>
                 <li><a href="https://github.com/javirs200/QR_Generator_Tool/">QR_Generator_Tool</a> Generates a valid QR from any data , fully customizable</li>
@@ -55,6 +60,7 @@
             <ul>
                 <li><a href="https://github.com/javirs200/cosasdeMicropython">Collection of my Test of Micropython Scrips</a> Mainly for use in ESP32</li>
                 <li><a href="https://github.com/javirs200/cosasDePython">Collection of my Test of Python Scrips</a> for PC and Raspberry pi</li>
+                <li><a href="https://github.com/javirs200/Circuit-timer-with-ESPnow">Circuit-timer-with-ESPnow</a> WIP , chronometer using ESP32 microcontroller and ESP-NOW wireless protocol</li>
             </ul>
         </li>
         <li>

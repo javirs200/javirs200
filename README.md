@@ -11,7 +11,6 @@
             <h3>🔭 Working on ⚡🎮</h3>
             <ul>
                 <li><a href="https://github.com/javirs200/webgame">webgame</a> [provisional name] 3d Godot game for web , available to play on <a href="https://javirs200.itch.io/test-web-godot">itch.io</a></li>
-                <li><a href="https://github.com/javirs200/usbSerialTrack">usbSerialTrack</a> WIP , Android app for conect with <a href="https://github.com/javirs200/Circuit-timer-with-ESPnow">Circuit-timer-with-ESPnow</a> hardware | using Jectpack Compose , Material Desing 3 , and <a href="https://github.com/mik3y/usb-serial-for-android">usb-serial-for-android</a> usb library </li>
             </ul>
         </li>
         <li>
@@ -46,7 +45,7 @@
         <li>
             <h3>📱Mobile📱</h3>
             <ul>
-                <li><a href="https://github.com/javirs200/usbSerialTrack">usbSerialTrack</a> WIP , Android app for conect with <a href="https://github.com/javirs200/Circuit-timer-with-ESPnow">Circuit-timer-with-ESPnow</a> hardware | using Jectpack Compose , Material Desing 3 , and <a href="https://github.com/mik3y/usb-serial-for-android">usb-serial-for-android</a> usb library </li>
+                <li><a href="https://github.com/javirs200/usbSerialTrack">usbSerialTrack</a> Android app for conect with <a href="https://github.com/javirs200/Circuit-timer-with-ESPnow">Circuit-timer-with-ESPnow</a> hardware | using Jectpack Compose , Material Desing 3 , and <a href="https://github.com/mik3y/usb-serial-for-android">usb-serial-for-android</a> usb library </li>
             </ul>
         </li>
         <li>

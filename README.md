@@ -1,4 +1,4 @@
-### Hello There! 
+### Hello There!
 
 <div aling="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%233d85c6&size=30&center=true&vCenter=true&width=450&lines=I'm+Javier;Software+Engineer;Spanish;Full-Stack+Dev" alt="Software Engineer,Spanish Full-Stack developer"></a>
@@ -10,13 +10,31 @@
         <li>
             <h3>🔭 Working on ⚡🎮</h3>
             <ul>
-                <li><a href="https://github.com/javirs200/webgame">webgame</a> [provisional name] 3d Godot game for web , available to play on <a href="https://javirs200.itch.io/test-web-godot">itch.io</a></li>
+                <li><a href="https://github.com/javirs200/javirs200.github.io">Porfolio</a>
+                    Portfolio page, made with HTML and CSS</li>
+                </li>
+                <li><a href="https://github.com/javirs200/BlindPortfolio">BlindPortfolio</a>
+                    blind version of Portfolio page, made with HTML and CSS</li>
+                </li>
+                <!--freezing 2nd priority-->
+                <li><a href="https://github.com/javirs200/webgame">Webgame</a> [provisional name] 3d Godot game
+                    for
+                    web , available to play on <a href="https://javirs200.itch.io/test-web-godot">itch.io</a> 
+                </li>
             </ul>
         </li>
         <li>
             <h3>🏁Last Fisnished🏁</h3>
+            <li><a href="https://github.com/javirs200/usbSerialTrack">usbSerialTrack</a> WIP , Android app for conect with <a href="https://github.com/javirs200/Circuit-timer-with-ESPnow">Circuit-timer-with-ESPnow</a> hardware | using Jectpack Compose , Material Desing 3 , and <a href="https://github.com/mik3y/usb-serial-for-android">usb-serial-for-android</a> usb library </li>
+        </li>
+        <li>
+            <h3>📚Academic Projects📚</h3>
             <ul>
-                <li><a href="https://github.com/javirs200/AzureContainersApp">AzureContainersApp</a> Bachelor Degree final project Source code</li>
+                <li><a href="https://github.com/javirs200/AzureContainersApp">AzureContainersApp</a> Bachelor
+                    Degree
+                    final project Source code</li>
+                <li><a href="https://github.com/javirs200/TareasFGj">TareasFGj</a> Colection of tasks for
+                    Fundacion Goodjob Challenges</li>
             </ul>
         </li>
         <li>
@@ -81,10 +99,27 @@
             </ul>
         </li>
     </ul>
+
 </div>
 
 <h2>ℹ️ working on Projects info</h2>
 <ul>
+    <li>
+        <h3>Portfolio</h3>
+        <img alt="Last commit" src="https://img.shields.io/github/last-commit/javirs200/javirs200.github.io?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
+        <img alt="Commit activity" src="https://img.shields.io/github/commit-activity/t/javirs200/javirs200.github.io?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
+        <img alt="forks" src="https://img.shields.io/github/forks/javirs200/javirs200.github.io?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+        <img alt="Repo stars" src="https://img.shields.io/github/stars/javirs200/javirs200.github.io?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+        <img alt="Contributors" src="https://img.shields.io/github/contributors/javirs200/javirs200.github.io?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+    </li>
+    <li>
+        <h3>BlindPortfolio</h3>
+        <img alt="Last commit" src="https://img.shields.io/github/last-commit/javirs200/BlindPortfolio?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
+        <img alt="Commit activity" src="https://img.shields.io/github/commit-activity/t/javirs200/BlindPortfolio?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
+        <img alt="forks" src="https://img.shields.io/github/forks/javirs200/BlindPortfolio?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+        <img alt="Repo stars" src="https://img.shields.io/github/stars/javirs200/BlindPortfolio?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+        <img alt="Contributors" src="https://img.shields.io/github/contributors/javirs200/BlindPortfolio?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+    </li>
     <li>
         <h3>webgame</h3>
         <img alt="Last commit" src="https://img.shields.io/github/last-commit/javirs200/webgame?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
@@ -93,6 +128,10 @@
         <img alt="Repo stars" src="https://img.shields.io/github/stars/javirs200/webgame?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
         <img alt="Contributors" src="https://img.shields.io/github/contributors/javirs200/webgame?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
     </li>
+</ul>
+
+<h2>ℹ️ Last Finished Project info</h2>
+<ul>
     <li>
         <h3>Circuit-timer-with-ESPnow<h3>
         <img alt="Last commit" src="https://img.shields.io/github/last-commit/javirs200/Circuit-timer-with-ESPnow?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
@@ -110,16 +149,6 @@
         <img alt="Contributors" src="https://img.shields.io/github/contributors/javirs200/usbSerialTrack?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
     </li>
 </ul>
-
-<h2>ℹ️ Last Finished Project info</h2>
-<div>
-    <h3>AzureContainersApp</h3>
-    <img alt="Last commit" src="https://img.shields.io/github/last-commit/javirs200/AzureContainersApp?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
-    <img alt="Commit activity" src="https://img.shields.io/github/commit-activity/t/javirs200/AzureContainersApp?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
-    <img alt="forks" src="https://img.shields.io/github/forks/javirs200/AzureContainersApp?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-    <img alt="Repo stars" src="https://img.shields.io/github/stars/javirs200/AzureContainersApp?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-    <img alt="Contributors" src="https://img.shields.io/github/contributors/javirs200/AzureContainersApp?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-</div>
 
 <h2>:busts_in_silhouette: How to reach me</h2>
 <a href="https://github.com/javirs200">
@@ -170,7 +199,6 @@
 <code> <img title="Unity" alt="Unity" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" /></code>
 <code> <img title="Raspberrypi" alt="Raspberrypi" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" /></code>
 <code> <img title="Godot" alt="Godot" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" /></code>
-
 
 </br></br>
 

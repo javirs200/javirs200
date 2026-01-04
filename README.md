@@ -10,11 +10,10 @@
         <li>
             <h3>🔭 Working on ⚡🎮</h3>
             <ul>
-                <li><a href="https://github.com/javirs200/javirs200.github.io">Porfolio</a>
-                    Portfolio page, made with HTML and CSS</li>
-                </li>
-                <li><a href="https://github.com/javirs200/BlindPortfolio">BlindPortfolio</a>
-                    blind version of Portfolio page, made with HTML and CSS</li>
+                <h2> New year`s Project !!! </h2>
+                <li><a href="https://github.com/javirs200/acCar">acCar</a> 
+                    AssettoCorsa mod that adds a 1987 Mercury Grand Marquis Colony Park to the game | using 3d modeling software Blender , and
+                    sometexturing software like Paint.NET
                 </li>
                 <!--freezing 2nd priority-->
                 <li><a href="https://github.com/javirs200/webgame">Webgame</a> [provisional name] 3d Godot game
@@ -22,6 +21,19 @@
                     web , available to play on <a href="https://javirs200.itch.io/test-web-godot">itch.io</a> 
                 </li>
             </ul>
+        </li>
+        <li>
+            <h3>💼 Portfolio 💼</h3>
+            <li><a href="https://github.com/javirs200/javirs200.github.io">Portfolio</a>
+                    Portfolio page, made with HTML and CSS</li>
+            </li>
+            <li><a href="https://github.com/javirs200/BlindPortfolio">BlindPortfolio</a>
+                    blind version of Portfolio page, made with HTML and CSS</li>
+            </li>
+        </li>
+        <li>
+            <h3>🏁Last Fisnished🏁</h3>
+            <li><a href="https://github.com/javirs200/usbSerialTrack">usbSerialTrack</a> WIP , Android app for conect with <a href="https://github.com/javirs200/Circuit-timer-with-ESPnow">Circuit-timer-with-ESPnow</a> hardware | using Jectpack Compose , Material Desing 3 , and <a href="https://github.com/mik3y/usb-serial-for-android">usb-serial-for-android</a> usb library </li>
         </li>
         <li>
             <h3>🏁Last Fisnished🏁</h3>

@@ -10,34 +10,29 @@
         <li>
             <h3>🔭 Working on ⚡🎮</h3>
             <ul>
-                <h2> New year`s Project !!! </h2>
-                <li><a href="https://github.com/javirs200/acCar">acCar</a> 
-                    AssettoCorsa mod that adds a 1987 Mercury Grand Marquis Colony Park to the game | using 3d modeling software Blender , and
-                    sometexturing software like Paint.NET
-                </li>
-                <!--freezing 2nd priority-->
-                <li><a href="https://github.com/javirs200/webgame">Webgame</a> [provisional name] 3d Godot game
-                    for
-                    web , available to play on <a href="https://javirs200.itch.io/test-web-godot">itch.io</a> 
+                <li>
+                    New year`s Project !!! <a href="https://github.com/javirs200/acCar">acCar</a> 
+                    AssettoCorsa mod that adds a <a href="https://upload.wikimedia.org/wikipedia/commons/5/58/1984_Mercury_Colony_Park%2C_front_left_%28high%29.jpg">1987 Mercury Grand Marquis Colony Park</a> (aka Wheeler's Family car from Stranger Things) to the game | using 3d modeling software Blender , and
+                        sometexturing software like Paint.NET
                 </li>
             </ul>
         </li>
         <li>
-            <h3>💼 Portfolio 💼</h3>
+        <h3>💼 Portfolio 💼</h3>
+        <ul>
             <li><a href="https://github.com/javirs200/javirs200.github.io">Portfolio</a>
                     Portfolio page, made with HTML and CSS</li>
             </li>
             <li><a href="https://github.com/javirs200/BlindPortfolio">BlindPortfolio</a>
                     blind version of Portfolio page, made with HTML and CSS</li>
             </li>
+        </ul>
         </li>
         <li>
-            <h3>🏁Last Fisnished🏁</h3>
+        <h3>🏁Last Fisnished🏁</h3>
+        <ul>
             <li><a href="https://github.com/javirs200/usbSerialTrack">usbSerialTrack</a> WIP , Android app for conect with <a href="https://github.com/javirs200/Circuit-timer-with-ESPnow">Circuit-timer-with-ESPnow</a> hardware | using Jectpack Compose , Material Desing 3 , and <a href="https://github.com/mik3y/usb-serial-for-android">usb-serial-for-android</a> usb library </li>
-        </li>
-        <li>
-            <h3>🏁Last Fisnished🏁</h3>
-            <li><a href="https://github.com/javirs200/usbSerialTrack">usbSerialTrack</a> WIP , Android app for conect with <a href="https://github.com/javirs200/Circuit-timer-with-ESPnow">Circuit-timer-with-ESPnow</a> hardware | using Jectpack Compose , Material Desing 3 , and <a href="https://github.com/mik3y/usb-serial-for-android">usb-serial-for-android</a> usb library </li>
+        </ul>
         </li>
         <li>
             <h3>📚Academic Projects📚</h3>
@@ -117,28 +112,12 @@
 <h2>ℹ️ working on Projects info</h2>
 <ul>
     <li>
-        <h3>Portfolio</h3>
-        <img alt="Last commit" src="https://img.shields.io/github/last-commit/javirs200/javirs200.github.io?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
-        <img alt="Commit activity" src="https://img.shields.io/github/commit-activity/t/javirs200/javirs200.github.io?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
-        <img alt="forks" src="https://img.shields.io/github/forks/javirs200/javirs200.github.io?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-        <img alt="Repo stars" src="https://img.shields.io/github/stars/javirs200/javirs200.github.io?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-        <img alt="Contributors" src="https://img.shields.io/github/contributors/javirs200/javirs200.github.io?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-    </li>
-    <li>
-        <h3>BlindPortfolio</h3>
-        <img alt="Last commit" src="https://img.shields.io/github/last-commit/javirs200/BlindPortfolio?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
-        <img alt="Commit activity" src="https://img.shields.io/github/commit-activity/t/javirs200/BlindPortfolio?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
-        <img alt="forks" src="https://img.shields.io/github/forks/javirs200/BlindPortfolio?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-        <img alt="Repo stars" src="https://img.shields.io/github/stars/javirs200/BlindPortfolio?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-        <img alt="Contributors" src="https://img.shields.io/github/contributors/javirs200/BlindPortfolio?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-    </li>
-    <li>
-        <h3>webgame</h3>
-        <img alt="Last commit" src="https://img.shields.io/github/last-commit/javirs200/webgame?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
-        <img alt="Commit activity" src="https://img.shields.io/github/commit-activity/t/javirs200/webgame?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
-        <img alt="forks" src="https://img.shields.io/github/forks/javirs200/webgame?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-        <img alt="Repo stars" src="https://img.shields.io/github/stars/javirs200/webgame?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-        <img alt="Contributors" src="https://img.shields.io/github/contributors/javirs200/webgame?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+        <h3>New year`s Project !!! acCar</h3>
+        <img alt="Last commit" src="https://img.shields.io/github/last-commit/javirs200/acCar?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
+        <img alt="Commit activity" src="https://img.shields.io/github/commit-activity/t/javirs200/acCar?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
+        <img alt="forks" src="https://img.shields.io/github/forks/javirs200/acCar?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+        <img alt="Repo stars" src="https://img.shields.io/github/stars/javirs200/acCar?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+        <img alt="Contributors" src="https://img.shields.io/github/contributors/javirs200/acCar?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
     </li>
 </ul>
 

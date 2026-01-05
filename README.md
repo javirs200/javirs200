@@ -168,8 +168,6 @@
 
 </br></br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javirs200&theme=blue-green&show_icons=true&hide_border=true&langs_count=10)
-
 <h2>:hammer_and_wrench: Things that help me getting my code done</h2>
 <code> <img title="npm" alt="npm" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></code>
 <code><img title="Ubuntu" alt="ubuntu" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code>
@@ -192,5 +190,3 @@
 <code> <img title="Godot" alt="Godot" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" /></code>
 
 </br></br>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=javirs200&theme=blue-green&show_icons=true&hide_border=true&count_private=true)

@@ -16,11 +16,6 @@
                 <li>
                     <a href="https://github.com/javirs200/CronometroUltrasonicoESP32">CronometroUltrasonicoESP32</a> a simple ultrasonic stopwatch using an ESP32 microcontroller. It measures the time taken to a moving object to pass between ultrasonic sensor.
                 </li>
-                <li>
-                    New year`s Project !!! (Temporarily paused) <a href="https://github.com/javirs200/acCar">acCar</a> 
-                    AssettoCorsa mod that adds a <a href="https://upload.wikimedia.org/wikipedia/commons/5/58/1984_Mercury_Colony_Park%2C_front_left_%28high%29.jpg">1987 Mercury Grand Marquis Colony Park</a> (aka Wheeler's Family car from Stranger Things) to the game | using 3d modeling software Blender , and
-                        sometexturing software like Paint.NET
-                </li>
             </ul>
         </li>
         <li>

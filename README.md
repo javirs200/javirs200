@@ -11,10 +11,7 @@
             <h3>🔭 Working on ⚡🎮</h3>
             <ul>
                 <li>
-                    <a href="https://github.com/javirs200/BMLTelemtryViwer">BMLTelemtryViwer</a> telemetry viewer app for "BeatMyLaning telemetry" data files 
-                </li>
-                <li>
-                    <a href="https://github.com/javirs200/CronometroUltrasonicoESP32">CronometroUltrasonicoESP32</a> a simple ultrasonic stopwatch using an ESP32 microcontroller. It measures the time taken to a moving object to pass between ultrasonic sensor.
+                    <a href="https://github.com/javirs200/exif-metadata-updater">EXIF Metadata Updater</a> Utility that updates the focal length metadata in JPEG images to a specified 35mm-equivalent value 
                 </li>
             </ul>
         </li>
@@ -22,17 +19,19 @@
         <h3>💼 Portfolio 💼</h3>
         <ul>
             <li><a href="https://github.com/javirs200/javirs200.github.io">Portfolio</a>
-                    Portfolio page, made with HTML and CSS</li>
+                    Portfolio page, made with HTML and CSS , Currently pending to update
             </li>
             <li><a href="https://github.com/javirs200/BlindPortfolio">BlindPortfolio</a>
-                    blind version of Portfolio page, made with HTML and CSS</li>
+                    blind version of Portfolio page, made with HTML and CSS , Currently pending to update
             </li>
         </ul>
         </li>
         <li>
         <h3>🏁Last Fisnished🏁</h3>
         <ul>
-            <li><a href="https://github.com/javirs200/usbSerialTrack">usbSerialTrack</a> WIP , Android app for conect with <a href="https://github.com/javirs200/Circuit-timer-with-ESPnow">Circuit-timer-with-ESPnow</a> hardware | using Jectpack Compose , Material Desing 3 , and <a href="https://github.com/mik3y/usb-serial-for-android">usb-serial-for-android</a> usb library </li>
+            <li>
+                <a href="https://github.com/javirs200/usbSerialTrack">usbSerialTrack</a> WIP , Android app for conect with <a href="https://github.com/javirs200/Circuit-timer-with-ESPnow">Circuit-timer-with-ESPnow</a> hardware | using Jectpack Compose , Material Desing 3 , and <a href="https://github.com/mik3y/usb-serial-for-android">usb-serial-for-android</a> usb library 
+            </li>
         </ul>
         </li>
         <li>
@@ -78,6 +77,7 @@
             <h3>🔧Utils🔧</h3>
             <ul>
                 <li><a href="https://github.com/javirs200/QR_Generator_Tool/">QR_Generator_Tool</a> Generates a valid QR from any data , fully customizable</li>
+                <li><a href="https://github.com/javirs200/exif-metadata-updater">EXIF Metadata Updater</a> Utility that updates the focal length metadata in JPEG images to a specified 35mm-equivalent value</li>
             </ul>
         </li>
         <li>
@@ -114,20 +114,12 @@
 <h2>ℹ️ working on Projects info</h2>
 <ul>
     <li>
-        <h3>CronometroUltrasonicoESP32</h3>
-        <img alt="Last commit" src="https://img.shields.io/github/last-commit/javirs200/CronometroUltrasonicoESP32?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
-        <img alt="Commit activity" src="https://img.shields.io/github/commit-activity/t/javirs200/CronometroUltrasonicoESP32?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
-        <img alt="forks" src="https://img.shields.io/github/forks/javirs200/CronometroUltrasonicoESP32?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-        <img alt="Repo stars" src="https://img.shields.io/github/stars/javirs200/CronometroUltrasonicoESP32?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-        <img alt="Contributors" src="https://img.shields.io/github/contributors/javirs200/CronometroUltrasonicoESP32?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-    </li>
-    <li>
-        <h3>BMLTelemtryViwer</h3>
-        <img alt="Last commit" src="https://img.shields.io/github/last-commit/javirs200/BMLTelemtryViwer?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
-        <img alt="Commit activity" src="https://img.shields.io/github/commit-activity/t/javirs200/BMLTelemtryViwer?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
-        <img alt="forks" src="https://img.shields.io/github/forks/javirs200/BMLTelemtryViwer?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-        <img alt="Repo stars" src="https://img.shields.io/github/stars/javirs200/BMLTelemtryViwer?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-        <img alt="Contributors" src="https://img.shields.io/github/contributors/javirs200/BMLTelemtryViwer?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+        <h3>EXIF Metadata Updater</h3>
+        <img alt="Last commit" src="https://img.shields.io/github/last-commit/javirs200/exif-metadata-updater?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
+        <img alt="Commit activity" src="https://img.shields.io/github/commit-activity/t/javirs200/exif-metadata-updater?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
+        <img alt="forks" src="https://img.shields.io/github/forks/javirs200/exif-metadata-updater?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+        <img alt="Repo stars" src="https://img.shields.io/github/stars/javirs200/exif-metadata-updater?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+        <img alt="Contributors" src="https://img.shields.io/github/contributors/javirs200/exif-metadata-updater?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
     </li>
 </ul>
 

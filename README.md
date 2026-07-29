@@ -11,6 +11,9 @@
             <h3>🔭 Working on ⚡🎮</h3>
             <ul>
                 <li>
+                    <a href="https://github.com/javirs200/Spaceinvaders">Spaceinvaders</a> This repository is the starting point for refactoring a legacy Space Invaders game project from a 2015 bachelor degree assignment about interfaces.
+                </li>
+                <li>
                     <a href="https://github.com/javirs200/exif-metadata-updater">EXIF Metadata Updater</a> Utility that updates the focal length metadata in JPEG images to a specified 35mm-equivalent value 
                 </li>
             </ul>
@@ -99,6 +102,8 @@
                     <li><a href="https://github.com/javirs200/unity_2d_zelda_like">unity_2d_zelda_like</a> A mix of Zelda 2d game and diy sprites inspired by halo game</li>
                     <li><a href="https://github.com/javirs200/CBird">CBird</a> Console flappybird in C</li>
                     <li><a href="https://github.com/javirs200/fmsConverter">fmsConverter</a> Convert flight plans in FMS format from X-Plane to JSON format for use with GeoFS.</li>
+                    <li><a href="https://github.com/javirs200/Spaceinvaders">Spaceinvaders</a> Pure c++ game using a opengl based library
+                    </li>
                 </ul>
         </li>
         <li>

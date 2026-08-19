@@ -11,10 +11,13 @@
             <h3>🔭 Working on ⚡🎮</h3>
             <ul>
                 <li>
-                    <a href="https://github.com/javirs200/Spaceinvaders">Spaceinvaders</a> This repository is the starting point for refactoring a legacy Space Invaders game project from a 2015 bachelor degree assignment about interfaces.
+                    <a href="https://github.com/javirs200/filmkitWithOcr">Create and manage Fujifilm camera profiles, with ease and speed. Connect your camera and you are good to go!, test <a href="https://javirs200.github.io/filmkitWithOcr/">here</a>
                 </li>
                 <li>
                     <a href="https://github.com/javirs200/exif-metadata-updater">EXIF Metadata Updater</a> Utility that updates the focal length metadata in JPEG images to a specified 35mm-equivalent value 
+                </li>
+                <li>
+                    <a href="https://github.com/javirs200/Spaceinvaders">Spaceinvaders</a> This repository is the starting point for refactoring a legacy Space Invaders game project from a 2015 bachelor degree assignment about interfaces.
                 </li>
             </ul>
         </li>
@@ -119,12 +122,12 @@
 <h2>ℹ️ working on Projects info</h2>
 <ul>
     <li>
-        <h3>EXIF Metadata Updater</h3>
-        <img alt="Last commit" src="https://img.shields.io/github/last-commit/javirs200/exif-metadata-updater?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
-        <img alt="Commit activity" src="https://img.shields.io/github/commit-activity/t/javirs200/exif-metadata-updater?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
-        <img alt="forks" src="https://img.shields.io/github/forks/javirs200/exif-metadata-updater?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-        <img alt="Repo stars" src="https://img.shields.io/github/stars/javirs200/exif-metadata-updater?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-        <img alt="Contributors" src="https://img.shields.io/github/contributors/javirs200/exif-metadata-updater?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+        <h3>FilmKit With OCR</h3>
+        <img alt="Last commit" src="https://img.shields.io/github/last-commit/javirs200/filmkitWithOcr?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
+        <img alt="Commit activity" src="https://img.shields.io/github/commit-activity/t/javirs200/filmkitWithOcr?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
+        <img alt="forks" src="https://img.shields.io/github/forks/javirs200/filmkitWithOcr?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+        <img alt="Repo stars" src="https://img.shields.io/github/stars/javirs200/filmkitWithOcr?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+        <img alt="Contributors" src="https://img.shields.io/github/contributors/javirs200/filmkitWithOcr?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
     </li>
 </ul>
 

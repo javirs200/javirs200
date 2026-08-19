@@ -11,7 +11,7 @@
             <h3>🔭 Working on ⚡🎮</h3>
             <ul>
                 <li>
-                    <a href="https://github.com/javirs200/filmkitWithOcr">Create and manage Fujifilm camera profiles, with ease and speed. Connect your camera and you are good to go!, test <a href="https://javirs200.github.io/filmkitWithOcr/">here</a>
+                    <a href="https://github.com/javirs200/filmkitWithOcr">FilmKit With OCR</a> Create and manage Fujifilm camera profiles, with ease and speed. Connect your camera and you are good to go!, test <a href="https://javirs200.github.io/filmkitWithOcr/">here</a>
                 </li>
                 <li>
                     <a href="https://github.com/javirs200/exif-metadata-updater">EXIF Metadata Updater</a> Utility that updates the focal length metadata in JPEG images to a specified 35mm-equivalent value 
